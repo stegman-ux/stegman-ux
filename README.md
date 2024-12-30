@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 
 I am a beginner in dev, and in IT
+I really lost my github acc. my old github acc is intrable-fr
 ---------------------------------
 
 I am passionate about computers, and here on github I will put my projects, whether they are bad or good. I am french

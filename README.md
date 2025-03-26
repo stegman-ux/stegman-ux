@@ -23,7 +23,7 @@ I am passionate about computers, and here on github I will put my projects, whet
 
 
 ### Socials
-My guns.lol : [guns.lol}(https://guns.lol/scriptkiddies)
+My guns.lol : [guns.lol](https://guns.lol/scriptkiddies)
 <p align="left"> <a href="https://www.github.com/intrable-fr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 <p align="left"> <a href="https://www.root-me.org/scriptkiddies-934275?lang=fr#d93785a45b405f778756af503c60ebc7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.eE956mZB3ekv_HpqYUZR5QHaHa%26pid%3DApi&f=1&ipt=5bab6efff5c4b2e63445bbe23b69b2bff32fe502c56690668a790b0168c831f6&ipo=images" /> <source media="(prefers-color-scheme: light)" srcset="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdothazard.com%2Fwp-content%2Fuploads%2F2017%2F02%2Froot-me.jpg&f=1&nofb=1&ipt=61775203bebf8f92575dbeaeb26fee8d40a965682b6a66fb383ec736909087ab&ipo=images" /> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdothazard.com%2Fwp-content%2Fuploads%2F2017%2F02%2Froot-me.jpg&f=1&nofb=1&ipt=61775203bebf8f92575dbeaeb26fee8d40a965682b6a66fb383ec736909087ab&ipo=images" width="32" height="32" /> </picture> </a></p>
 
